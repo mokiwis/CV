@@ -3,7 +3,7 @@ body {
 }
 
 p {
-	color: #444;
+	color: rgb(64, 65, 64);
 }
 
 .main-text {
@@ -11,6 +11,8 @@ p {
 	text-align: center;
 	margin-top: 220px;
 	margin-bottom: 180px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .social-icons {
@@ -21,6 +23,9 @@ p {
 
 footer {
 	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	float: center;
 }
 
 footer p {
