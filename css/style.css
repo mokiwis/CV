@@ -1,0 +1,28 @@
+body {
+	background-color: rgb(220, 214, 203);
+}
+
+p {
+	color: #444;
+}
+
+.main-text {
+	font-size: 4.5em;
+	text-align: center;
+	margin-top: 220px;
+	margin-bottom: 180px;
+}
+
+.social-icons {
+	width: 30px;
+	height: 30px;
+}
+
+footer {
+	text-align: center;
+}
+
+footer p {
+	font-size: 12px;
+	margin: 7em 0 7em 0;
+}
